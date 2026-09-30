@@ -10,9 +10,9 @@ Passionate about the arts and cross-cultural exchange, I enjoy teamwork and cont
 ## Skills
 - Python
 - Revolutionary artificial intelligence tools (HRIA)
-- Scrum Fundamentals
+- Scrum
 - Web Design and Infrastructure
-- Music Composition 
+- Music Composition (FL studio)
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=Marc0Codex&theme=midnight)
 
